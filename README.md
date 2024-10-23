@@ -1,6 +1,6 @@
 # ASO SCRIPTS
 ## Tree
-'''shell
+```shell
 EJER1
 ├── ejer1_dani_functions.sh
 └── ejer1_dani.sh
@@ -11,4 +11,4 @@ EJER2
 └── output.log
 EJER3
 └── ejer3_dani.sh
-'''
+```
