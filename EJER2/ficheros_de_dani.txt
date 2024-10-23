@@ -1,0 +1,4 @@
+asa.txt:/home/usuario/asa.txt:usuario:usuario:Hello-World
+fich2.txt:/home/usuario/fich2.txt:usuario:usuario:Hello-World
+fich3.txt:/home/usuario/fich3.txt:usuario:usuario:Hello-World
+fich4.txt:/home/usuario/fich4.txt:usuario:usuario:Hello-World
