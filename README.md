@@ -1,5 +1,4 @@
 # ASO SCRIPTS
-## Tree
 ```shell
 EJER1
 ├── ejer1_dani_functions.sh
